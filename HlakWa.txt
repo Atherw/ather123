@@ -1,1 +1,1 @@
-{'ver1':'16', 'ver2':'00', 'ver3':'\n\n[Emergencyـ Fix] Virus Notification wrong alert\n\n\n [Fixed] Select status video ranndom crash!\n' , 'dli':'https://www.whatsappmods.net/2018/08/update-gbwhatsapp.html'}
+{'ver1':'15', 'ver2':'00', 'ver3':'\n\nتحديث واتساب الهلاك الكبير\n\n\n جعل النسخه مبتهنجش من فيروسات الاعلانات ومزيد من الاضافات\n' , 'dli':'https://youtube.com/c/ELHLAKELKBER-R-T'}
